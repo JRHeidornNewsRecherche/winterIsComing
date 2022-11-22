@@ -1,10 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sturm',de,Deutschland,#ff3399,#ff99cc,1,1
 'Hochwasser',de,Deutschland,#ff3399,#ff66b3,1,1
+'Klimakrise',de,Deutschland,#ff3399,#ffcce6,1,1
+'Temperatur',de,Deutschland,#ff3399,#cce0ff,1,1
+'Flut',de,Deutschland,#ff3399,#e6f0ff,1,1
 
 'Dürre',de,Sommer,#0066ff,#0066ff,1,1
 'Ernte',de,Sommer,#0066ff,#1a75ff,1,1
 'Versagen',de,Sommer,#0066ff,#3385ff,1,1
+'Hunger',de,Sommer,#0066ff,#99c2ff,1,1
 
 'Schnee',de,Winter,#33cc33,#70db70,1,1
 'Kälte',de,Winter,#33cc33,#85e085,1,1
